@@ -56,13 +56,10 @@ El repositorio reúne la documentación correspondiente a las distintas etapas d
 
 ## 7. Integrante
 
-**Nombre y apellido:** Lisandro Escalada
-
-**Modalidad:** Individual
-
-**Institución:** Universidad Tecnológica Nacional (UTN)
-
-**Asignatura:** Organización Empresarial
+- **Nombre y apellido:** Lisandro Escalada
+- **Modalidad:** Individual
+- **Institución:** Universidad Tecnológica Nacional (UTN)
+- **Asignatura:** Organización Empresarial
 
 ## 8. Propósito del repositorio
 
