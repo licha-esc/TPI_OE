@@ -39,3 +39,7 @@ Los indicadores clave de rendimiento (KPI) permiten medir el desempeño del sist
 Estos indicadores permiten evaluar el rendimiento, la facilidad de uso y la eficiencia administrativa del sistema PRM.
 
 Su seguimiento facilita la detección de problemas y permite realizar mejoras para alcanzar los objetivos establecidos.
+
+## 4. Seguimiento y mejora continua
+
+Los indicadores deberán revisarse periódicamente para detectar desvíos respecto de las metas establecidas y proponer mejoras en el funcionamiento del sistema PRM.
